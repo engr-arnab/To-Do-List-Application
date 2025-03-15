@@ -9,6 +9,10 @@ The **Todo List Application** is a simple and interactive task management tool t
 - View tasks in different categories: All, Pending, Completed
 - Delete all tasks with a single button
 - Tasks persist using `localStorage`
+##Images
+![Image](https://github.com/user-attachments/assets/48c1777a-219d-43a8-8313-ed2f36feb8c8)
+![Image](https://github.com/user-attachments/assets/7074a0a8-8480-4a65-9434-9ab0b7135b1a)
+![Image](https://github.com/user-attachments/assets/28278258-3ca6-4867-b47f-390e67f38fe5)
 
 ## Technologies Used
 - **Frontend:** HTML, CSS, JavaScript
