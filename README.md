@@ -57,4 +57,4 @@ Contributions are welcome! Follow these steps to contribute:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For any queries or issues, feel free to contact [Arnab Das] at [your.email@example.com].
+For any queries or issues, feel free to contact [Arnab Das] at [arnabdasbit.ise@gmail.com].
