@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Todo List</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="utility.css">
+</head>
+
+<body>
+    <main>
+        <header>
+            Todo List
+        </header>
+        <div class="addButton">
+            <input class="addButtonInput" type="text" placeholder="Add your task">
+            <button class="addButtonBtn">
+                <img src="assests/add.svg" alt="">
+            </button>
+        </div>
+        <div class="options">
+            <button class="optionsBtn all">All</button>
+            <button class="optionsBtn pending">Pending</button>
+            <button class="optionsBtn completed">Completed</button>
+        </div>
+        <div class="todoLists"></div>
+        <div class="pendingTodo"></div>
+        <div class="completedTodo"></div>
+
+        <div class="delete">
+            <button class="deleteBtn">Delete all</button>
+        </div>
+
+    </main>
+    <script src="script.js"></script>
+    <script src="main.js"></script>
+</body>
+
+</html>

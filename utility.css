@@ -1,0 +1,86 @@
+.todoLists {
+    overflow-y: auto;
+    scrollbar-width: thin; 
+    scrollbar-color: #888 #f1f1f1; 
+}
+
+.todoLists::-webkit-scrollbar {
+    width: 8px;
+}
+
+.todoLists::-webkit-scrollbar-track {
+    background: #f1f1f1;
+    border-radius: 10px;
+}
+
+.todoLists::-webkit-scrollbar-thumb {
+    background: #030303;
+    border-radius: 10px;
+    transition: background 0.3s ease;
+}
+
+.todoLists::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+
+
+
+
+.pendingTodo {
+    overflow-y: auto;
+    scrollbar-width: thin; 
+    scrollbar-color: #888 #f1f1f1; 
+}
+
+.pendingTodo::-webkit-scrollbar {
+    width: 8px;
+}
+
+.pendingTodo::-webkit-scrollbar-track {
+    background: #f1f1f1;
+    border-radius: 10px;
+}
+
+.pendingTodo::-webkit-scrollbar-thumb {
+    background: #030303;
+    border-radius: 10px;
+    transition: background 0.3s ease;
+}
+
+.pendingTodo::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
+
+
+
+
+
+.completedTodo {
+    overflow-y: auto;
+    scrollbar-width: thin; 
+    scrollbar-color: #888 #f1f1f1; 
+}
+
+.completedTodo::-webkit-scrollbar {
+    width: 8px;
+}
+
+.completedTodo::-webkit-scrollbar-track {
+    background: #f1f1f1;
+    border-radius: 10px;
+}
+
+.completedTodo::-webkit-scrollbar-thumb {
+    background: #030303;
+    border-radius: 10px;
+    transition: background 0.3s ease;
+}
+
+.completedTodo::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
